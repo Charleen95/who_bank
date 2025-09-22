@@ -1,2 +1,1 @@
-# wxo-l4-assets
-watsonx Orchestrate level 4 course assets
+![alt text](https://github.com/Charleen95/who_bank/blob/main/iDTE_Bank_wxO.png?raw=true)
